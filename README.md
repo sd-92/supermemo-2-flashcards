@@ -4,7 +4,7 @@ An iOS flashcard application built in swift 3 and core data that schedules card 
 SuperMemo2 algorithm: https://www.supermemo.com/english/ol/sm2.htm
 
 ### To Do:
-- Improved card editing and searching
+- Improve card editing and searching
 - Intro tutorial
 - Allow for rich content in cards
 - Data synchronisation
