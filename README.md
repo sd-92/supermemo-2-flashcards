@@ -1,7 +1,7 @@
 # SuperMemo 2 flashcard application
 An iOS flashcard app built to investigate spaced repetition theory and how it can affect language learning. The app uses SuperMemo2 algorithm to schedule card reviews. 
 
-### How card reviews are scheduled
+## How card reviews are scheduled
 1. All new items have an Easiness factor (EF) equal to 2.5.
 2. The items reviewed are assigned the following intervals:
   1. I(1):=1. 
@@ -14,7 +14,7 @@ time.
 
 SuperMemo2 algorithm: https://www.supermemo.com/english/ol/sm2.htm
 
-### To Do:
+## To Do
 - Improve card editing and searching
 - Intro tutorial
 - Allow for rich content in cards
