@@ -19,4 +19,3 @@ SuperMemo2 algorithm: https://www.supermemo.com/english/ol/sm2.htm
 - Intro tutorial
 - Allow for rich content in cards
 - Data synchronisation
-- iPad support
