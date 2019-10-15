@@ -18,4 +18,3 @@ SuperMemo2 algorithm: https://www.supermemo.com/english/ol/sm2.htm
 - Improve card editing and searching
 - Intro tutorial
 - Allow for rich content in cards
-- Data synchronisation
