@@ -1,5 +1,5 @@
 ## SuperMemo2 Flashcards
-iPhone flashcard app built with Swift 3 and Core Data which schedules card reviews based on the SuperMemo 2 algorithm. The app was built as part of a university project and is not mantained.
+iPhone flashcard app built with Swift 3 and Core Data which schedules card reviews based on the SuperMemo 2 algorithm. The application was built as part of a university project and is not mantained.
 
 ## How card reviews are scheduled
 1. All new items have an Easiness factor (EF) equal to 2.5.
